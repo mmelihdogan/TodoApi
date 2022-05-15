@@ -25,3 +25,9 @@ D:\dev\netcore\TodoApi\obj\Debug\net6.0\refint\TodoApi.dll
 D:\dev\netcore\TodoApi\obj\Debug\net6.0\TodoApi.pdb
 D:\dev\netcore\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
 D:\dev\netcore\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
+D:\dev\netcore\TodoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\dev\netcore\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dev\netcore\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dev\netcore\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\dev\netcore\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dev\netcore\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
